@@ -1,6 +1,6 @@
 def tablas(t:int, m:int):
     r=0
-    i=0
+    i=1
     j=0
     for i in range(i,t+1):
         print(f"La tabla {i} es: ")
