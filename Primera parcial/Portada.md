@@ -1,7 +1,7 @@
 ![Imagen de unas nubes](https://recursos.ucol.mx/tesis/img/logo_negro.png)
 # Facultad de Ingenieria Mecanica y Electrica
 ## Ingenieria en Computacion Inteligente
-### Fundamentos de Programacion
+### Programacion funcional  
 **Portafolio de ejercicios realizados en clase**  
 **Profesor:** Mata Lopez Walter Alexander  
 **Alumno:** Daniel Alejandro Verduzco Valencia  
