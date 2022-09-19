@@ -1,3 +1,5 @@
+#Daniel Alejandro Verduzco Valencia 3-B ICI
+
 alumnos = ["Daniel", "Alejandro", "Jose", "Martin", "Manuel"]
 materia1 = [10, 7, 9, 6, 8]
 materia2 = [9, 5 ,7, 8, 10]
