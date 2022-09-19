@@ -1,3 +1,4 @@
+#Daniel Alejandro Verduzco Valencia 3-B ICI
 def tablas(t:int, n:int):
     for i in range(1,t+1):
         tabla(i,n, 10)
