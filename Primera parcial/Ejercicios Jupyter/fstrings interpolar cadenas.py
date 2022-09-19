@@ -1,3 +1,5 @@
+#Daniel Alejandro Verduzco Valencia 3-B ICI
+
 #interpolacion de cadenas
 name = "Alex"
 edad = 10
