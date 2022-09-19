@@ -1,3 +1,4 @@
+#Daniel Alejandro Verduzco Valencia 3-B ICI
 def tablas(t:int, m:int):
     r=0
     i=1
