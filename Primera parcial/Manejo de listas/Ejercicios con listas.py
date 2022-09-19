@@ -1,3 +1,5 @@
+#Daniel Alejandro Verduzco Valencia 3-B ICI
+
 mi_lista  = [1,2,3,4]
 print(mi_lista)   
 lista_vacia = []
